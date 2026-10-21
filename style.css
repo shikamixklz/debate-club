@@ -5,14 +5,14 @@
 }
 
 body {
-    background-color: #f5f2ea;
+    background-color: #faf7f2;
     color: #111827;
     font-family: Arial, sans-serif;
 }
 
 header {
     padding: 24px 60px;
-    border-bottom: 1px solid #d9d7d0;
+    border-bottom: 1px solid #e5d7cc;
 }
 
 header {
@@ -60,7 +60,7 @@ nav {
 }
 
 .logo span {
-    color: #8f1d2c;
+    color: #dc4345;
 
     font-family: Georgia, serif;
     font-size: 20px;
@@ -75,7 +75,7 @@ nav {
 }
 
 .logo:hover {
-    color: #8f1d2c;
+    color: #dc4345;
 }
 
 .nav-links {
@@ -87,7 +87,7 @@ nav {
 .nav-links a {
     position: relative;
 
-    color: #d9d7d0;
+    color: #e5d7cc;
     text-decoration: none;
 
     font-size: 14px;
@@ -107,7 +107,7 @@ nav {
     width: 0;
     height: 2px;
 
-    background-color: #8f1d2c;
+    background-color: #dc4345;
 
     transition: width 0.2s ease;
 }
@@ -118,7 +118,7 @@ nav {
 }
 
 .nav-links a:hover {
-    color: #8f1d2c;
+    color: #dc4345;
 }
 
 .hero {
@@ -133,12 +133,12 @@ nav {
     display: block;
     width: 80px;
     height: 4px;
-    background-color: #8f1d2c;
+    background-color: #dc4345;
     margin-bottom: 35px;
 }
 
 .eyebrow {
-    color: #8f1d2c;
+    color: #dc4345;
     font-size: 14px;
     font-weight: bold;
     letter-spacing: 2px;
@@ -169,7 +169,7 @@ nav {
     display: inline-block;
     padding: 15px 24px;
 
-    background-color: #8f1d2c;
+    background-color: #dc4345;
     color: white;
 
     text-decoration: none;
@@ -230,7 +230,7 @@ nav {
 
 .card {
     background-color: white;
-    border: 1px solid #d9d7d0;
+    border: 1px solid #e5d7cc;
     padding: 30px;
     min-height: 240px;
 
@@ -242,7 +242,7 @@ nav {
 
 .card:hover {
     transform: translateY(-6px);
-    border-color: #8f1d2c;
+    border-color: #dc4345;
     box-shadow: 0 12px 30px rgba(17, 24, 39, 0.08);
 }
 
@@ -252,14 +252,14 @@ nav {
 }
 
 .card p {
-    color: #536A8A;
+    color: #5d99b9;
     line-height: 1.6;
 }
 
 .card-number {
     display: block;
 
-    color: #8f1d2c;
+    color: #dc4345;
 
     font-size: 12px;
     font-weight: bold;
@@ -277,7 +277,7 @@ nav {
     display: grid;
     grid-template-columns: 2fr 1fr;
     gap: 80px;
-    border-top: 1px solid #d9d7d0;
+    border-top: 1px solid #e5d7cc;
 }
 
 .next-debate h2 {
@@ -295,7 +295,7 @@ nav {
 }
 
 .event-details {
-    border-left: 1px solid #d9d7d0;
+    border-left: 1px solid #e5d7cc;
     padding-left: 40px;
 }
 
@@ -318,7 +318,7 @@ nav {
 }
 
 .join .eyebrow {
-    color: #d9d7d0;
+    color: #e5d7cc;
 }
 
 .join h2 {
@@ -333,7 +333,7 @@ nav {
 }
 
 .join .button {
-    background-color: #8f1d2c;
+    background-color: #dc4345;
 }
 
 .join .button:hover {
@@ -371,7 +371,7 @@ nav {
     max-width: 1100px;
     margin: 0 auto;
     padding: 90px 60px;
-    border-top: 1px solid #d9d7d0;
+    border-top: 1px solid #e5d7cc;
 
     display: grid;
     grid-template-columns: 1fr 2fr;
@@ -407,7 +407,7 @@ nav {
     gap: 25px;
 
     padding: 25px 0;
-    border-bottom: 1px solid #d9d7d0;
+    border-bottom: 1px solid #e5d7cc;
 }
 
 .meeting-step:first-child {
@@ -415,7 +415,7 @@ nav {
 }
 
 .meeting-step span {
-    color: #8f1d2c;
+    color: #dc4345;
     font-weight: bold;
     letter-spacing: 1px;
 }
@@ -426,7 +426,7 @@ nav {
 }
 
 .meeting-step p {
-    color: #536A8A;
+    color: #5d99b9;
     line-height: 1.6;
 }
 
@@ -440,13 +440,13 @@ nav {
 
 .topic-card {
     padding: 45px 0;
-    border-top: 1px solid #d9d7d0;
+    border-top: 1px solid #e5d7cc;
 }
 
 .topic-meta {
     display: flex;
     justify-content: space-between;
-    color: #8f1d2c;
+    color: #dc4345;
     font-size: 13px;
     font-weight: bold;
     letter-spacing: 1.5px;
@@ -464,7 +464,7 @@ nav {
 
 .topic-card > p {
     max-width: 650px;
-    color: #536A8A;
+    color: #5d99b9;
     font-size: 18px;
     line-height: 1.6;
     margin-bottom: 30px;
@@ -493,7 +493,7 @@ nav {
     gap: 50px;
 
     padding: 40px 0;
-    border-top: 1px solid #d9d7d0;
+    border-top: 1px solid #e5d7cc;
 }
 
 .event-date {
@@ -508,7 +508,7 @@ nav {
 }
 
 .event-month {
-    color: #8f1d2c;
+    color: #dc4345;
     font-size: 13px;
     font-weight: bold;
     letter-spacing: 2px;
@@ -516,7 +516,7 @@ nav {
 }
 
 .event-type {
-    color: #8f1d2c;
+    color: #dc4345;
     font-size: 12px;
     font-weight: bold;
     letter-spacing: 1.5px;
@@ -534,7 +534,7 @@ nav {
 
 .event-info p:last-child {
     max-width: 600px;
-    color: #536A8A;
+    color: #5d99b9;
     line-height: 1.6;
 }
 
@@ -542,7 +542,7 @@ nav {
     display: flex;
     flex-direction: column;
     gap: 8px;
-    border-left: 1px solid #d9d7d0;
+    border-left: 1px solid #e5d7cc;
     padding-left: 30px;
 }
 
@@ -551,7 +551,7 @@ nav {
 }
 
 .event-location span {
-    color: #536A8A;
+    color: #5d99b9;
     line-height: 1.4;
 }
 
@@ -622,7 +622,7 @@ nav {
 
     .event-details {
         border-left: none;
-        border-top: 1px solid #d9d7d0;
+        border-top: 1px solid #e5d7cc;
         padding-left: 0;
         padding-top: 30px;
     }
@@ -665,7 +665,7 @@ nav {
     .event-location {
         grid-column: 2;
         border-left: none;
-        border-top: 1px solid #d9d7d0;
+        border-top: 1px solid #e5d7cc;
         padding-left: 0;
         padding-top: 20px;
     }
@@ -687,8 +687,8 @@ nav {
 /* FOOTER */
 
 footer {
-    background-color: #f5f2ea;
-    border-top: 1px solid #d9d7d0;
+    background-color: #faf7f2;
+    border-top: 1px solid #e5d7cc;
     padding: 60px;
 }
 
@@ -709,7 +709,7 @@ footer {
 }
 
 .footer-main p {
-    color: #536A8A;
+    color: #5d99b9;
     margin-top: 12px;
 }
 
@@ -725,7 +725,7 @@ footer {
 }
 
 .footer-links a:hover {
-    color: #8f1d2c;
+    color: #dc4345;
 }
 
 .footer-bottom {
@@ -733,12 +733,12 @@ footer {
     margin: 60px auto 0;
     padding-top: 20px;
 
-    border-top: 1px solid #d9d7d0;
+    border-top: 1px solid #e5d7cc;
 
     display: flex;
     justify-content: space-between;
 
-    color: #536A8A;
+    color: #5d99b9;
     font-size: 13px;
 }
 
@@ -763,4 +763,65 @@ footer {
     font-size: clamp(28px, 4vw, 48px);
     line-height: 1.15;
     color: white;
+}
+
+
+/* Halloween banner */
+.halloween-banner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+    margin: 16px auto;
+    padding: 18px 24px;
+    max-width: 900px;
+    background-color: #111827;
+    color: #f7ede6;
+    border: 1px solid #5d99b9;
+    border-left: 5px solid #feae19;
+    border-radius: 10px;
+}
+
+.halloween-icon {
+    font-size: 1.8rem;
+    flex-shrink: 0;
+}
+
+.halloween-message {
+    flex: 1;
+    text-align: center;
+}
+
+.halloween-message strong {
+    display: block;
+    margin-bottom: 6px;
+    color: #feae19;
+    font-family: Georgia, serif;
+    font-size: 1.25rem;
+}
+
+.halloween-message p {
+    margin: 0;
+    color: #f7ede6;
+    font-size: 0.95rem;
+    line-height: 1.5;
+}
+
+@media (max-width: 600px) {
+    .halloween-banner {
+        gap: 10px;
+        padding: 14px 12px;
+    }
+
+    .halloween-icon {
+        font-size: 1.3rem;
+    }
+
+    .halloween-message strong {
+        font-size: 1.05rem;
+    }
+
+    .halloween-message p {
+        font-size: 0.85rem;
+    }
 }
